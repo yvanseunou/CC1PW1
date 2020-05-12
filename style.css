@@ -1,0 +1,30 @@
+.p1{
+    text-align: left;
+    font-size: 20px;
+    margin: 120px 20px 2px;
+}
+.corp{
+    display: inline;
+}
+.yvan{
+    border-bottom: solid white 20px;
+}
+.millieu{
+    border-bottom: solid white 50px;
+    border-left: white 100px;
+}
+.container{
+    text-align: center;
+}
+.col-xs-offset-2col-xs-2{
+    text-align: center;
+}
+h3{
+    text-align: center left;
+}
+.col-xs-8{
+    align-items: center;
+}
+.titre5{
+    text-align: center;
+}
